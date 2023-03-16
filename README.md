@@ -1,2 +1,2 @@
 # The-babycry-detection-and-lull-baby-to-sleep
-This is the University's IoT Lab project of two member, Phat and Dat
+This is the University's project of two members, Phat and Dat
